@@ -24,11 +24,13 @@ accentColor: Colors.amber,
             width: 800,
             height: 200,
             
-            child: Text("Hello Flutter", textAlign: TextAlign.center,)
+            child: Text("Hello Flutter", 
+            textAlign: TextAlign.center,)
+            
             ),
 
         ),
-
+// git config --global user.email "email@example.com"
     );
   }
 }
