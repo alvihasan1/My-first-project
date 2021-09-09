@@ -17,7 +17,7 @@ accentColor: Colors.amber,
       ),
         home: Scaffold(
           appBar: AppBar(
-            title: Text("Flutter App")
+            title: Text("My Flutter App")
           ) ,
           body: Container(
             color: Colors.amber,
